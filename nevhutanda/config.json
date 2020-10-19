@@ -8,9 +8,9 @@
     "text": ""
   },
   "text": {
-    "more": "",
-    "intro": "Legend:\n\nPink - African\nGreen - White\nOrange - South Indian\nBlue - Coloured",
-    "title": "Ntshengedzeni Alfred Nevhutanda"
+    "more": "Extract from the company\u0027s register and includes companies registered between 2010 and 2020. The data is mostly complete except for 2017. \nThis network is centred on the two large red nodes and includes all nodes which are within 3 degrees of separation. \nRace has been inferred from director name using a machine learning classifier. While the acccuracy of the algorthim is reasonably good, expect some errors.\n\nSouth Africa recognises four major race groups for administrative purposes: African, Coloured, India/Asian, and White. To improve the usefulness of the classifier, Indian/Asian has been separated into South Asian (India, Pakistan, Malaysia, etc) and East Asian (Chinese, Korean, Japanese). More finely grained classification is currently being worked on but is dependent on training data.",
+    "intro": "Legend:\n\nPink - African\nGreen - White\nOrange - South Asian\nBlue - Coloured\nDark Green - East Asian",
+    "title": "Director networks in South Africa"
   },
   "legend": {
     "edgeLabel": "Co-directorships",
